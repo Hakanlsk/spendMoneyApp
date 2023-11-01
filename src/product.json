@@ -1,0 +1,26 @@
+[
+    {
+        "id" : 1,
+        "title": "Sakız",
+        "price": 0.5,
+        "image": "https://images.migrosone.com/sanalmarket/product/07124238/07124238-be7324-1650x1650.jpg"
+    },
+    {
+        "id" : 2,
+        "title": "Kola",
+        "price": 6,
+        "image":"https://cdn03.ciceksepeti.com/cicek/kcm273874-1/XL/kola-coca-cola-2.5-lt.-kcm273874-1-2afb9e7fa5c6439381e7fb1d23e04deb.jpg"
+    },
+    {
+        "id" : 3,
+        "title": "Ayakkabı",
+        "price": 400,
+        "image":"https://contents.mediadecathlon.com/p1876652/k$2685b59bc8d289abf686ca79841bc3e9/sq/erkek-spor-ayakkabilar.jpg?format=auto&f=800x0"
+    },
+    {
+        "id" : 4,
+        "title": "Araba",
+        "price": 40000,
+        "image":"https://ideacdn.net/idea/cy/49/myassets/products/161/starwheels.jpg?revision=1697143329"
+    }
+]

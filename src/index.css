@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    background: #eee;
+}
+
+.container{
+    width: 1000px;
+    margin: 0 auto;
+}
+
+.products{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
